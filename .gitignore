@@ -1,0 +1,8 @@
+# Ignore executable files
+*.exe
+# Ignore files without extensions (executables)
+*
+
+# Ignore JetBrains project files
+.idea/
+*.iml
