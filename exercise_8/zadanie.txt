@@ -1,7 +1,0 @@
-Ak nemáte hotové základné funkcie pracujúce s dynamickou pamäťou, môžete použiť ref. riešenie exercise_7.
-
-Úloha 1: Implementujte funkcie, ktoré pridajú prvok na začiatok / koniec dynamického poľa. (1 čiarka)
-Úloha 2: Implementujte funkcie, ktorá odstráni prvok na zadanom indexe z dynamického poľa / všetky prvky v dynamickom poli. (2 čiarky)
-Úloha 3: Implementujte funkciu, ktorá z dynamického poľa odstráni náhodný prvok menší ako hodnota priemeru prvkov a vráti výsledok. (1 čiarka)
-Úloha 4: Implementujte funkciu, ktorá dynamicky alokuje a pracuje s 2D poľom (matica) s možnosťou pridávania riadkov a stĺpcov. (3 čiarky)
-Úloha 5: Implementujte funkciu, ktorá nahradí dynamické pole čísel za dynamické pole štruktúr obsahujúcich pôvodné číslo v poli a jeho binárnu reprezentáciu. (3 čiarky)
