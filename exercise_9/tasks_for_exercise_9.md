@@ -22,6 +22,7 @@
     int fibonacci(int n);
     ```
    **Vzorec pre Fibonacciho čísla**:
+
     $$ F(n) = F(n-1) + F(n-2) \quad \text{pre} \quad n > 1 $$
     $$ F(0) = 0 $$
     $$ F(1) = 1 $$
@@ -32,6 +33,7 @@
     int factorial(int n);
    ```
    **Vzorec pre faktoriál**:
+
     $$ n! = n \times (n-1)! \quad \text{pre} \quad n > 0 $$
     $$ 0! = 1 $$
 5. **Implementujte funkciu `ackermann()`**, ktorá pomocou rekurzie vypočíta **Ackermanovú funkciu** daného čísla.
