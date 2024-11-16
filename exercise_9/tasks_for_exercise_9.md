@@ -36,6 +36,7 @@
 
     $$ n! = n \times (n-1)! \quad \text{pre} \quad n > 0 $$
     $$ 0! = 1 $$
+
 5. **Implementujte funkciu `ackermann()`**, ktorá pomocou rekurzie vypočíta **Ackermanovú funkciu** daného čísla.
    **Hlavička funkcie**:
     ```c
@@ -50,6 +51,7 @@
     A(m-1, A(m, n-1)) & \text{ak} \quad m > 0 \quad \text{a} \quad n > 0
     \end{cases}
     $$
+
 
 <a name="cite_note-1"></a>1. [^](#cite_ref-1) Riešenie tejto úlohy si budeme ukazovať na cvičení spoločne. Za správnu identifikáciu chyby, správne určenie dôvodov jej vzniku a náčrt jej riešenia je možný zisk čiarky.
 
